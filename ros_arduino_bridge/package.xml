@@ -13,7 +13,7 @@
 
   <run_depend>ros_arduino_firmware</run_depend>
   <run_depend>ros_arduino_msgs</run_depend>
-  <run_depend>ros_arduino_python</run_depend>
+  <run_depend>ros_arduino_python</run_depend> by lyb
 
   <export>
    <metapackage/>
